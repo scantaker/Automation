@@ -1,0 +1,11 @@
+1570931685780	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x2/sb4r9mx12pn1v93crx9svpn00000gn/T/rust_mozprofile.7wKWau1fZLY6"
+1570931686622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570931686622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570931686623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570931686623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570931688459	Marionette	INFO	Listening on port 51778
+1570931688492	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.maiziedu.com/course/web-px/, line 473: ReferenceError: $ is not defined
+JavaScript error: http://webchat.7moor.com/javascripts/QiMoIMSDK.js?accessId=8b207c80-8028-11e9-b67c-719bbd53d2db&v=20191011, line 1: NotFoundError: Node was not found
+JavaScript error: http://www.maiziedu.com/2016/src/index.js?v=201703281700, line 3: TypeError: $(...).slide is not a function
+1570975326131	Marionette	INFO	Stopped listening on port 51778
